@@ -2,7 +2,7 @@
 
 Repositório referente à disciplina de Machine Learning! Este espaço é dedicado à execução dos trabalhos desenvolvidos como parte do curso. Durante esta disciplina, exploramos diversas técnicas fundamentais em Machine Learning, desde a compreensão dos algoritmos até a aplicação prática em conjuntos de dados reais. No decorrer deste repositório, você encontrará implementações de algoritmos, análises exploratórias, experimentos de modelagem e avaliações de desempenho. Este repositório abrigará uma variedade de trabalhos, cada um focado em aspectos específicos do aprendizado de máquina
 
-### Projeto 1: Algoritmos de Regressão Linear
+## Projeto 1: Algoritmos de Regressão Linear
 
 Este projeto apresenta implementações dos algoritmos de Regressão Linear utilizando duas abordagens distintas: Gradiente Descendente e Solução Analítica. As classes `GradientDescent` e `AnalyticalSolution` foram desenvolvidas para realizar a regressão linear em conjuntos de dados, aceitando qualquer quantidade de atributos.
 
